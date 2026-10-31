@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "lastRun": "2026-10-31T17:15:56Z",
+  "ok": true,
+  "newCount": 1,
+  "skippedBecauseDisabled": false,
+  "sourcesSearched": [
+    "arxiv",
+    "ieee",
+    "springer",
+    "elsevierAcm",
+    "conferences"
+  ],
+  "note": "1 new paper(s); WebFetch unavailable, so verifiedOn is null"
+}

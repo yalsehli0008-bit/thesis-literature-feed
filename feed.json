@@ -1,7 +1,21 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T17:15:39Z",
+  "generatedAt": "2026-10-31T17:15:56Z",
   "papers": [
+    {
+      "id": "doi:10.1145/3828754",
+      "source": "ACM",
+      "title": "Software Engineering for Self-Adaptive Robotics: A Research Agenda",
+      "url": "https://doi.org/10.1145/3828754",
+      "arxiv": null,
+      "doi": "10.1145/3828754",
+      "venue": "ACM (venue not shown in search result)",
+      "year": null,
+      "theme": "Runtime monitoring",
+      "added": "2026-10-31",
+      "verifiedOn": null,
+      "note": "Landing page not opened (WebFetch unavailable in this run); verify before citing."
+    },
     {
       "id": "arxiv:2610.13737",
       "source": "arXiv",
