@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "enabled": true,
+  "sources": {
+    "arxiv": true,
+    "ieee": true,
+    "springer": true,
+    "elsevierAcm": true,
+    "conferences": true
+  },
+  "preprintWindowDays": 30,
+  "journalWindowDays": 90,
+  "maxNewPerRun": 8,
+  "updatedAt": "2026-10-31T17:15:39Z",
+  "updatedBy": "initial setup"
+}
