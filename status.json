@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "lastRun": "2026-10-31T17:15:56Z",
+  "lastRun": "2026-11-01T04:24:07Z",
   "ok": true,
-  "newCount": 1,
+  "newCount": 2,
   "skippedBecauseDisabled": false,
   "sourcesSearched": [
     "arxiv",
@@ -11,5 +11,5 @@
     "elsevierAcm",
     "conferences"
   ],
-  "note": "1 new paper(s); WebFetch unavailable, so verifiedOn is null"
+  "note": "2 new paper(s); WebFetch could not reach arxiv.org/springer, so verifiedOn is null"
 }

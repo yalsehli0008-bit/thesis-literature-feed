@@ -1,7 +1,35 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T17:15:56Z",
+  "generatedAt": "2026-11-01T04:24:07Z",
   "papers": [
+    {
+      "id": "arxiv:2608.21444",
+      "source": "arXiv",
+      "title": "Agentic AI for Safety-critical Multi-drone Systems: Challenges and Opportunities",
+      "url": "https://arxiv.org/abs/2608.21444",
+      "arxiv": "2608.21444",
+      "doi": null,
+      "venue": "arXiv preprint",
+      "year": null,
+      "theme": "Runtime monitoring",
+      "added": "2026-11-01",
+      "verifiedOn": null,
+      "note": "Found via search result only; landing page not opened (WebFetch could not reach arxiv.org)."
+    },
+    {
+      "id": "doi:10.1007/s44430-026-00026-4",
+      "source": "Springer",
+      "title": "Multi-stage hierarchical multi-agent reinforcement learning for UAV-quadruped completing search and rescue",
+      "url": "https://doi.org/10.1007/s44430-026-00026-4",
+      "arxiv": null,
+      "doi": "10.1007/s44430-026-00026-4",
+      "venue": "Springer journal (name not confirmed)",
+      "year": 2026,
+      "theme": "UAV SAR",
+      "added": "2026-11-01",
+      "verifiedOn": null,
+      "note": "DOI and year taken from the Springer URL in the search result; landing page not opened."
+    },
     {
       "id": "doi:10.1145/3828754",
       "source": "ACM",
