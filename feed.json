@@ -1,7 +1,49 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T04:24:07Z",
+  "generatedAt": "2026-11-02T04:30:00Z",
   "papers": [
+    {
+      "id": "doi:10.1007/978-3-032-20440-0_5",
+      "source": "Springer",
+      "title": "Intelligent Path Planning for UAV Swarms via Deep Reinforcement Learning",
+      "url": "https://doi.org/10.1007/978-3-032-20440-0_5",
+      "arxiv": null,
+      "doi": "10.1007/978-3-032-20440-0_5",
+      "venue": "Springer book chapter",
+      "year": 2026,
+      "theme": "MARL UAV",
+      "added": "2026-11-02",
+      "verifiedOn": null,
+      "note": "Metadata from search result; landing page not fetched (host unreachable)."
+    },
+    {
+      "id": "doi:10.1007/s00371-026-04638-0",
+      "source": "Springer",
+      "title": "A vision-to-decision framework for learning-augmented UAV–USV coordination in maritime search and rescue",
+      "url": "https://doi.org/10.1007/s00371-026-04638-0",
+      "arxiv": null,
+      "doi": "10.1007/s00371-026-04638-0",
+      "venue": "The Visual Computer",
+      "year": 2026,
+      "theme": "UAV SAR",
+      "added": "2026-11-02",
+      "verifiedOn": null,
+      "note": "Metadata from search result; landing page not fetched (host unreachable)."
+    },
+    {
+      "id": "doi:10.1007/s40747-025-02166-3",
+      "source": "Springer",
+      "title": "A multi-UAV rapid post-disaster search and rescue method based on deep reinforcement learning",
+      "url": "https://doi.org/10.1007/s40747-025-02166-3",
+      "arxiv": null,
+      "doi": "10.1007/s40747-025-02166-3",
+      "venue": "Complex & Intelligent Systems",
+      "year": null,
+      "theme": "UAV SAR",
+      "added": "2026-11-02",
+      "verifiedOn": null,
+      "note": "Metadata from search result; landing page not fetched (host unreachable)."
+    },
     {
       "id": "arxiv:2608.21444",
       "source": "arXiv",
