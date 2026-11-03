@@ -1,15 +1,9 @@
 {
   "schemaVersion": 1,
-  "lastRun": "2026-11-02T04:30:00Z",
+  "lastRun": "2026-11-03T04:24:06Z",
   "ok": true,
-  "newCount": 3,
+  "newCount": 0,
   "skippedBecauseDisabled": false,
-  "sourcesSearched": [
-    "arxiv",
-    "ieee",
-    "springer",
-    "elsevierAcm",
-    "conferences"
-  ],
-  "note": "3 new paper(s); WebFetch could not reach springer/sciencedirect, so verifiedOn is null"
+  "sourcesSearched": ["arxiv","ieee","springer","elsevierAcm","conferences"],
+  "note": "No new papers today; link.springer.com not reachable via WebFetch, undated Springer candidates skipped"
 }
