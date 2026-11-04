@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "lastRun": "2026-11-03T04:24:06Z",
+  "lastRun": "2026-11-04T04:24:27Z",
   "ok": true,
   "newCount": 0,
   "skippedBecauseDisabled": false,
   "sourcesSearched": ["arxiv","ieee","springer","elsevierAcm","conferences"],
-  "note": "No new papers today; link.springer.com not reachable via WebFetch, undated Springer candidates skipped"
+  "note": "No new papers today; doi.org and link.springer.com not reachable via WebFetch, undated journal candidates skipped"
 }
