@@ -1,7 +1,35 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T04:30:00Z",
+  "generatedAt": "2026-11-06T04:23:59Z",
   "papers": [
+    {
+      "id": "doi:10.1007/978-3-032-11176-0_28",
+      "source": "Springer",
+      "title": "Safe Multi-agent Reinforcement Learning Using Formal Runtime Enforcement: A Case Study",
+      "url": "https://doi.org/10.1007/978-3-032-11176-0_28",
+      "arxiv": null,
+      "doi": "10.1007/978-3-032-11176-0_28",
+      "venue": "Springer conference proceedings chapter (ICTAC 2025)",
+      "year": null,
+      "theme": "Safe MARL",
+      "added": "2026-11-06",
+      "verifiedOn": null,
+      "note": null
+    },
+    {
+      "id": "arxiv:2604.13542",
+      "source": "arXiv",
+      "title": "Self-adaptive Multi-Access Edge Architectures: A Robotics Case",
+      "url": "https://arxiv.org/abs/2604.13542",
+      "arxiv": "2604.13542",
+      "doi": null,
+      "venue": "arXiv preprint",
+      "year": null,
+      "theme": "Runtime monitoring",
+      "added": "2026-11-06",
+      "verifiedOn": null,
+      "note": null
+    },
     {
       "id": "doi:10.1007/978-3-032-20440-0_5",
       "source": "Springer",
